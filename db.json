@@ -2,61 +2,61 @@
   {
     "userId": 1,
     "id": 1,
-    "title": "Acheron",
-    "body": "5 Star, Nihility, Lightning, 2.1"
+    "title": "Персонаж 1",
+    "body": "Описание персонажа 1"
   },
   {
     "userId": 1,
     "id": 2,
-    "title": "Argenti",
-    "body": "5 Star, Erudition, Physical, 1.5"
+    "title": "Персонаж 2",
+    "body": "Описание персонажа 2"
   },
   {
     "userId": 1,
     "id": 3,
-    "title": "Arlan",
-    "body": "4 Star, Destruction, Lightning, 1.0"
+    "title": "Персонаж 3",
+    "body": "Описание персонажа 3"
   },
   {
     "userId": 1,
     "id": 4,
-    "title": "Asta",
-    "body": "4 Star, Harmony, Fire, 1.0"
+    "title": "Персонаж 4",
+    "body": "Описание персонажа 4"
   },
   {
-    "userId": 1,
+    "userId": 2,
     "id": 5,
-    "title": "Aventurine",
-    "body": "5 Star, Preservation, Imaginary, 2.1"
+    "title": "Персонаж 5",
+    "body": "Описание персонажа 5"
   },
   {
-    "userId": 1,
+    "userId": 2,
     "id": 6,
-    "title": "Bailu",
-    "body": "5 Star, Abundance, Lightning, 1.0"
+    "title": "Персонаж 6",
+    "body": "Описание персонажа 6"
   },
   {
-    "userId": 1,
+    "userId": 2,
     "id": 7,
-    "title": "Black Swan",
-    "body": "5 Star, Nihility, Wind, 2.0"
+    "title": "Персонаж 7",
+    "body": "Описание персонажа 7"
   },
   {
-    "userId": 1,
+    "userId": 2,
     "id": 8,
-    "title": "Blade",
-    "body": "5 Star, Destruction, Wind, 1.2"
+    "title": "Персонаж 8",
+    "body": "Описание персонажа 8"
   },
   {
-    "userId": 1,
+    "userId": 3,
     "id": 9,
-    "title": "Boothill",
-    "body": "5 Star, The Hunt, Physical, 2.2"
+    "title": "Персонаж 9",
+    "body": "Описание персонажа 9"
   },
   {
-    "userId": 1,
+    "userId": 3,
     "id": 10,
-    "title": "Bronya",
-    "body": "5 Star, Harmony, Wind, 1.0"
+    "title": "Персонаж 10",
+    "body": "Описание персонажа 10"
   }
 ]

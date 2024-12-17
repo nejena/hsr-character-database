@@ -3,60 +3,60 @@
     "userId": 1,
     "id": 1,
     "title": "Acheron",
-    "body": "Rarity: 5 Star, Path: Nihility, Combat Type: Lightning, Version: 2.1"
+    "body": "5 Star, Nihility, Lightning, 2.1"
   },
   {
     "userId": 1,
     "id": 2,
     "title": "Argenti",
-    "body": "Rarity: 5 Star, Path: Erudition, Combat Type: Physical, Version: 1.5"
+    "body": "5 Star, Erudition, Physical, 1.5"
   },
   {
     "userId": 1,
     "id": 3,
     "title": "Arlan",
-    "body": "Rarity: 4 Star, Path: Destruction, Combat Type: Lightning, Version: 1.0"
+    "body": "4 Star, Destruction, Lightning, 1.0"
   },
   {
     "userId": 1,
     "id": 4,
     "title": "Asta",
-    "body": "Rarity: 4 Star, Path: Harmony, Combat Type: Fire, Version: 1.0"
+    "body": "4 Star, Harmony, Fire, 1.0"
   },
   {
     "userId": 1,
     "id": 5,
     "title": "Aventurine",
-    "body": "Rarity: 5 Star, Path: Preservation, Combat Type: Imaginary, Version: 2.1"
+    "body": "5 Star, Preservation, Imaginary, 2.1"
   },
   {
     "userId": 1,
     "id": 6,
     "title": "Bailu",
-    "body": "Rarity: 5 Star, Path: Abundance, Combat Type: Lightning, Version: 1.0"
+    "body": "5 Star, Abundance, Lightning, 1.0"
   },
   {
     "userId": 1,
     "id": 7,
     "title": "Black Swan",
-    "body": "Rarity: 5 Star, Path: Nihility, Combat Type: Wind, Version: 2.0"
+    "body": "5 Star, Nihility, Wind, 2.0"
   },
   {
     "userId": 1,
     "id": 8,
     "title": "Blade",
-    "body": "Rarity: 5 Star, Path: Destruction, Combat Type: Wind, Version: 1.2"
+    "body": "5 Star, Destruction, Wind, 1.2"
   },
   {
     "userId": 1,
     "id": 9,
     "title": "Boothill",
-    "body": "Rarity: 5 Star, Path: The Hunt, Combat Type: Physical, Version: 2.2"
+    "body": "5 Star, The Hunt, Physical, 2.2"
   },
   {
     "userId": 1,
     "id": 10,
     "title": "Bronya",
-    "body": "Rarity: 5 Star, Path: Harmony, Combat Type: Wind, Version: 1.0"
+    "body": "5 Star, Harmony, Wind, 1.0"
   }
 ]
